@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics
+END
+Rect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Rect.hpp
+END
+Shape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Shape.hpp
+END
+String.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/String.hpp
+END
+Sprite.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Sprite.hpp
+END
+Font.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Font.hpp
+END
+RenderWindow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/RenderWindow.hpp
+END
+View.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/View.hpp
+END
+Color.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Color.hpp
+END
+Drawable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Drawable.hpp
+END
+Matrix3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Matrix3.inl
+END
+Image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Image.hpp
+END
+PostFX.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/PostFX.hpp
+END
+Glyph.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Glyph.hpp
+END
+RenderTarget.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/RenderTarget.hpp
+END
+Matrix3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Matrix3.hpp
+END
+Rect.inl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Graphics/Rect.inl
+END

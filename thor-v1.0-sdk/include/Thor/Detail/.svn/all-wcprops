@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail
+END
+Metaprogramming.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/Metaprogramming.hpp
+END
+ResourceSlot.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ResourceSlot.hpp
+END
+SmartPtrImpl.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/SmartPtrImpl.inl
+END
+BinaryFunction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/BinaryFunction.hpp
+END
+PolarVector.inl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/PolarVector.inl
+END
+MovedPtr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/MovedPtr.inl
+END
+MovedPtrRef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/MovedPtrRef.hpp
+END
+AssociativeHelpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/AssociativeHelpers.hpp
+END
+TypeInfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/TypeInfo.hpp
+END
+ScopedPtr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ScopedPtr.inl
+END
+SmartPtrImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/SmartPtrImpl.hpp
+END
+ColorImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ColorImpl.hpp
+END
+TriangulationFigures.inl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/TriangulationFigures.inl
+END
+VectorAlgebra2D.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/VectorAlgebra2D.inl
+END
+VectorAlgebra3D.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/VectorAlgebra3D.inl
+END
+ToString.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ToString.inl
+END
+UnaryFunction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/UnaryFunction.hpp
+END
+ResourcePtr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ResourcePtr.inl
+END
+Swap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/Swap.hpp
+END
+Triangulation.inl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/Triangulation.inl
+END
+DoubleDispatcher.inl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/DoubleDispatcher.inl
+END
+SafeBoolIdiom.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/SafeBoolIdiom.hpp
+END
+ResourceManager.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ResourceManager.inl
+END
+EventSystem.inl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/EventSystem.inl
+END
+ConnectionImpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ConnectionImpl.hpp
+END
+ResourceKeyHelpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ResourceKeyHelpers.hpp
+END
+SingleDispatcher.inl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/SingleDispatcher.inl
+END
+CopiedPtr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/CopiedPtr.inl
+END
+ResourceSlotBase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/ResourceSlotBase.hpp
+END
+EventListener.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Detail/EventListener.hpp
+END

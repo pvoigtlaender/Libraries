@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles
+END
+Affector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles/Affector.hpp
+END
+Emitter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles/Emitter.hpp
+END
+Particle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles/Particle.hpp
+END
+ParticleInterfaces.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles/ParticleInterfaces.hpp
+END
+ParticleSystem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Particles/ParticleSystem.hpp
+END

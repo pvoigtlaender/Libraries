@@ -1,0 +1,15 @@
+﻿Build started 09.07.2011 13:05:43.
+     1>Project "C:\Libraries\thor-v1.0-sdk\build\ALL_BUILD.vcxproj" on node 3 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\ALL_BUILD\ALL_BUILD.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Libraries/thor-v1.0-sdk/CMakeLists.txt
+         CMake does not need to re-run because C:\Libraries\thor-v1.0-sdk\build\CMakeFiles\generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Win32\Release\ALL_BUILD\ALL_BUILD.unsuccessfulbuild".
+         Touching "Win32\Release\ALL_BUILD\ALL_BUILD.lastbuildstate".
+     1>Done Building Project "C:\Libraries\thor-v1.0-sdk\build\ALL_BUILD.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

@@ -1,0 +1,79 @@
+﻿Build started 09.07.2011 13:04:49.
+     1>Project "C:\Libraries\thor-v1.0-sdk\build\src\thor.vcxproj" on node 3 (rebuild target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Libraries\thor-v1.0-sdk\build\src\Debug\".
+       InitializeBuildStatus:
+         Creating "thor.dir\Debug\thor.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Libraries/thor-v1.0-sdk/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Libraries\thor-v1.0-sdk\build\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Libraries/thor-v1.0-sdk/include" /I"C:/Libraries/SFML 2.0/include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D THOR_EXPORTS /D THOR_STATIC /D SFML_STATIC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"thor.dir\Debug\\" /Fd"C:/Libraries/thor-v1.0-sdk/build/src/Debug/thor-s-d.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\Affector.cpp ..\..\src\Arrow.cpp ..\..\src\Attributes2D.cpp ..\..\src\AudioKeys.cpp ..\..\src\Circle.cpp ..\..\src\ColorImpl.cpp ..\..\src\Colors.cpp ..\..\src\ConcaveShape.cpp ..\..\src\Connection.cpp ..\..\src\Emitter.cpp ..\..\src\Exceptions.cpp ..\..\src\GraphicsKeys.cpp ..\..\src\Particle.cpp ..\..\src\ParticleInterfaces.cpp ..\..\src\ParticleSystem.cpp ..\..\src\Point.cpp ..\..\src\Random.cpp ..\..\src\Rectangle.cpp ..\..\src\SfmlEventSystem.cpp ..\..\src\Shapes.cpp ..\..\src\StopWatch.cpp ..\..\src\Timer.cpp ..\..\src\ToString.cpp ..\..\src\Triangulation.cpp ..\..\src\TriggeringTimer.cpp ..\..\src\Trigonometry.cpp ..\..\src\Zone.cpp  /Zm1000 
+         Affector.cpp
+         Arrow.cpp
+         Attributes2D.cpp
+         AudioKeys.cpp
+         Circle.cpp
+         ColorImpl.cpp
+     1>..\..\src\ColorImpl.cpp(51): warning C4355: 'this' : used in base member initializer list
+         Colors.cpp
+         ConcaveShape.cpp
+         Connection.cpp
+         Emitter.cpp
+         Exceptions.cpp
+         GraphicsKeys.cpp
+         Particle.cpp
+         ParticleInterfaces.cpp
+         ParticleSystem.cpp
+         Point.cpp
+         Random.cpp
+         Rectangle.cpp
+         SfmlEventSystem.cpp
+         Shapes.cpp
+         Generating Code...
+         Compiling...
+         StopWatch.cpp
+         Timer.cpp
+         ToString.cpp
+         Triangulation.cpp
+         TriggeringTimer.cpp
+         Trigonometry.cpp
+         Zone.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Libraries\thor-v1.0-sdk\build\src\Debug\thor-s-d.lib" /NOLOGO thor.dir\Debug\Affector.obj
+         thor.dir\Debug\Arrow.obj
+         thor.dir\Debug\Attributes2D.obj
+         thor.dir\Debug\AudioKeys.obj
+         thor.dir\Debug\Circle.obj
+         thor.dir\Debug\ColorImpl.obj
+         thor.dir\Debug\Colors.obj
+         thor.dir\Debug\ConcaveShape.obj
+         thor.dir\Debug\Connection.obj
+         thor.dir\Debug\Emitter.obj
+         thor.dir\Debug\Exceptions.obj
+         thor.dir\Debug\GraphicsKeys.obj
+         thor.dir\Debug\Particle.obj
+         thor.dir\Debug\ParticleInterfaces.obj
+         thor.dir\Debug\ParticleSystem.obj
+         thor.dir\Debug\Point.obj
+         thor.dir\Debug\Random.obj
+         thor.dir\Debug\Rectangle.obj
+         thor.dir\Debug\SfmlEventSystem.obj
+         thor.dir\Debug\Shapes.obj
+         thor.dir\Debug\StopWatch.obj
+         thor.dir\Debug\Timer.obj
+         thor.dir\Debug\ToString.obj
+         thor.dir\Debug\Triangulation.obj
+         thor.dir\Debug\TriggeringTimer.obj
+         thor.dir\Debug\Trigonometry.obj
+         thor.dir\Debug\Zone.obj
+         thor.vcxproj -> C:\Libraries\thor-v1.0-sdk\build\src\Debug\thor-s-d.lib
+       FinalizeBuildStatus:
+         Deleting file "thor.dir\Debug\thor.unsuccessfulbuild".
+         Touching "thor.dir\Debug\thor.lastbuildstate".
+     1>Done Building Project "C:\Libraries\thor-v1.0-sdk\build\src\thor.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.30

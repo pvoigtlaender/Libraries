@@ -1,0 +1,160 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{89910C7C-58C4-4B0C-9EBF-BE79EF56CEE8}</ProjectGUID>
+    <SccProjectName />
+    <SccLocalPath />
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>thor</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Libraries\thor-v1.0-sdk\build\src\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">thor.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">thor-s-d</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Libraries\thor-v1.0-sdk\build\src\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">thor.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">thor-s</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;THOR_EXPORTS;THOR_STATIC;SFML_STATIC;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>Debug</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Libraries/thor-v1.0-sdk/build/src/Debug/thor-s-d.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;THOR_EXPORTS;THOR_STATIC;SFML_STATIC;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat></DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;THOR_EXPORTS;THOR_STATIC;SFML_STATIC;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>Release</AssemblerListingLocation>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ProgramDataBaseFileName>C:/Libraries/thor-v1.0-sdk/build/src/Release/thor-s.pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;THOR_EXPORTS;THOR_STATIC;SFML_STATIC;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:/Libraries/thor-v1.0-sdk/include;C:/Libraries/SFML 2.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\src\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Libraries/thor-v1.0-sdk/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -HC:/Libraries/thor-v1.0-sdk -BC:/Libraries/thor-v1.0-sdk/build --check-stamp-file C:\Libraries\thor-v1.0-sdk\build\src\CMakeFiles\generate.stamp
+if errorlevel 1 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Libraries/thor-v1.0-sdk/src/CMakeLists.txt;C:\Libraries\thor-v1.0-sdk\src\CMakeLists.txt;C:\Libraries\thor-v1.0-sdk\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Libraries\thor-v1.0-sdk\build\src\CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Libraries/thor-v1.0-sdk/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -HC:/Libraries/thor-v1.0-sdk -BC:/Libraries/thor-v1.0-sdk/build --check-stamp-file C:\Libraries\thor-v1.0-sdk\build\src\CMakeFiles\generate.stamp
+if errorlevel 1 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Libraries/thor-v1.0-sdk/src/CMakeLists.txt;C:\Libraries\thor-v1.0-sdk\src\CMakeLists.txt;C:\Libraries\thor-v1.0-sdk\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Libraries\thor-v1.0-sdk\build\src\CMakeFiles\generate.stamp;%(Outputs)</Outputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\Affector.cpp" />
+    <ClCompile Include="..\..\src\Arrow.cpp" />
+    <ClCompile Include="..\..\src\Attributes2D.cpp" />
+    <ClCompile Include="..\..\src\AudioKeys.cpp" />
+    <ClCompile Include="..\..\src\Circle.cpp" />
+    <ClCompile Include="..\..\src\ColorImpl.cpp" />
+    <ClCompile Include="..\..\src\Colors.cpp" />
+    <ClCompile Include="..\..\src\ConcaveShape.cpp" />
+    <ClCompile Include="..\..\src\Connection.cpp" />
+    <ClCompile Include="..\..\src\Emitter.cpp" />
+    <ClCompile Include="..\..\src\Exceptions.cpp" />
+    <ClCompile Include="..\..\src\GraphicsKeys.cpp" />
+    <ClCompile Include="..\..\src\Particle.cpp" />
+    <ClCompile Include="..\..\src\ParticleInterfaces.cpp" />
+    <ClCompile Include="..\..\src\ParticleSystem.cpp" />
+    <ClCompile Include="..\..\src\Point.cpp" />
+    <ClCompile Include="..\..\src\Random.cpp" />
+    <ClCompile Include="..\..\src\Rectangle.cpp" />
+    <ClCompile Include="..\..\src\SfmlEventSystem.cpp" />
+    <ClCompile Include="..\..\src\Shapes.cpp" />
+    <ClCompile Include="..\..\src\StopWatch.cpp" />
+    <ClCompile Include="..\..\src\Timer.cpp" />
+    <ClCompile Include="..\..\src\ToString.cpp" />
+    <ClCompile Include="..\..\src\Triangulation.cpp" />
+    <ClCompile Include="..\..\src\TriggeringTimer.cpp" />
+    <ClCompile Include="..\..\src\Trigonometry.cpp" />
+    <ClCompile Include="..\..\src\Zone.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:/Libraries/thor-v1.0-sdk/build/ZERO_CHECK.vcxproj">
+      <Project>5D3C7A03-6784-430B-948F-957038CF2CDF</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

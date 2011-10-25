@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry
+END
+Point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry/Point.hpp
+END
+Zone.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry/Zone.hpp
+END
+Attributes2D.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry/Attributes2D.hpp
+END
+Circle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry/Circle.hpp
+END
+Rectangle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Geometry/Rectangle.hpp
+END

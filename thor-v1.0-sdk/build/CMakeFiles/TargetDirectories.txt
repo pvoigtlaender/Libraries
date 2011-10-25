@@ -1,0 +1,3 @@
+C:/Libraries/thor-v1.0-sdk/build/CMakeFiles/ALL_BUILD.dir
+C:/Libraries/thor-v1.0-sdk/build/CMakeFiles/ZERO_CHECK.dir
+C:/Libraries/thor-v1.0-sdk/build/src/CMakeFiles/thor.dir

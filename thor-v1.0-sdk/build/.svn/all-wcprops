@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build
+END
+INSTALL.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/INSTALL.vcxproj
+END
+ALL_BUILD.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/ALL_BUILD.vcxproj
+END
+CMakeCache.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/CMakeCache.txt
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/cmake_install.cmake
+END
+ZERO_CHECK.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/ZERO_CHECK.vcxproj
+END
+INSTALL.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/INSTALL.vcxproj.filters
+END
+thor.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/thor.sln
+END
+ALL_BUILD.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/ALL_BUILD.vcxproj.filters
+END
+ZERO_CHECK.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/build/ZERO_CHECK.vcxproj.filters
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/SmartPtr
+END
+CopiedPtr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/SmartPtr/CopiedPtr.hpp
+END
+MovedPtr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/SmartPtr/MovedPtr.hpp
+END
+CopiedPtrPolicies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/SmartPtr/CopiedPtrPolicies.hpp
+END
+ScopedPtr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/SmartPtr/ScopedPtr.hpp
+END

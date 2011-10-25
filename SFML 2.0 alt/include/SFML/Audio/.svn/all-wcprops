@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio
+END
+SoundSource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/SoundSource.hpp
+END
+SoundRecorder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/SoundRecorder.hpp
+END
+Music.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/Music.hpp
+END
+SoundBuffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/SoundBuffer.hpp
+END
+SoundStream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/SoundStream.hpp
+END
+Listener.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/Listener.hpp
+END
+Sound.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/Sound.hpp
+END
+SoundBufferRecorder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio/SoundBufferRecorder.hpp
+END

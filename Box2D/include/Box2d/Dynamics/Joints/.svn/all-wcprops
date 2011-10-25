@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints
+END
+b2PulleyJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2PulleyJoint.cpp
+END
+b2RevoluteJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2RevoluteJoint.h
+END
+b2FrictionJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2FrictionJoint.cpp
+END
+b2GearJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2GearJoint.cpp
+END
+b2Joint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2Joint.cpp
+END
+b2PulleyJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2PulleyJoint.h
+END
+b2FrictionJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2FrictionJoint.h
+END
+b2GearJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2GearJoint.h
+END
+b2Joint.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2Joint.h
+END
+b2LineJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2LineJoint.cpp
+END
+b2MouseJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2MouseJoint.cpp
+END
+b2DistanceJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2DistanceJoint.cpp
+END
+b2PrismaticJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2PrismaticJoint.cpp
+END
+b2WeldJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2WeldJoint.cpp
+END
+b2LineJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2LineJoint.h
+END
+b2MouseJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2MouseJoint.h
+END
+b2DistanceJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2DistanceJoint.h
+END
+b2PrismaticJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2PrismaticJoint.h
+END
+b2WeldJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2WeldJoint.h
+END
+b2RevoluteJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/Joints/b2RevoluteJoint.cpp
+END

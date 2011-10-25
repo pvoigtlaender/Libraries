@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Math
+END
+Random.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Math/Random.hpp
+END
+Triangulation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Math/Triangulation.hpp
+END
+Trigonometry.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Math/Trigonometry.hpp
+END
+TriangulationFigures.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Math/TriangulationFigures.hpp
+END

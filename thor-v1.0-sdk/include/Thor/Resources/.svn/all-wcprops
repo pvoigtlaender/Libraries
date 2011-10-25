@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources
+END
+GraphicsKeys.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/GraphicsKeys.hpp
+END
+AudioKeys.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/AudioKeys.hpp
+END
+ResourcePtr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/ResourcePtr.hpp
+END
+ResourceManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/ResourceManager.hpp
+END
+ResourceStrategies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/ResourceStrategies.hpp
+END
+ResourceKeyTraits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/pv182253_Libraries/!svn/ver/1/thor-v1.0-sdk/include/Thor/Resources/ResourceKeyTraits.hpp
+END

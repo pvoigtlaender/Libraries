@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window
+END
+VideoMode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/VideoMode.hpp
+END
+WindowListener.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/WindowListener.hpp
+END
+Input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/Input.hpp
+END
+Event.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/Event.hpp
+END
+WindowHandle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/WindowHandle.hpp
+END
+Context.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/Context.hpp
+END
+OpenGL.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/OpenGL.hpp
+END
+Window.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/Window.hpp
+END
+WindowSettings.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/WindowSettings.hpp
+END
+WindowStyle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Window/WindowStyle.hpp
+END

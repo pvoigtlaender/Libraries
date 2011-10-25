@@ -1,0 +1,52 @@
+﻿Build started 10.10.2011 11:39:17.
+     1>Project "C:\Libraries\mpir-2.4.0\build.vc10\lib_mpir_cxx\lib_mpir_cxx.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\lib_mpir_cxx.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       MakeDirsForCl:
+         Creating directory "C:\Libraries\mpir-2.4.0\build.vc10\lib_mpir_cxx\Win32\Release\cxx".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /I..\..\ /I..\..\mpn\generic /I..\..\ /Zi /nologo /W3 /WX- /Ox /Oy- /D _WIN32 /D NDEBUG /D _LIB /D HAVE_CONFIG_H /D _MBCS /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Release\cxx\\" /Fd"C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\cxx\isfuns.cc ..\..\cxx\ismpf.cc ..\..\cxx\ismpq.cc ..\..\cxx\ismpz.cc ..\..\cxx\osdoprnti.cc ..\..\cxx\osfuns.cc ..\..\cxx\osmpf.cc ..\..\cxx\osmpq.cc ..\..\cxx\osmpz.cc
+         isfuns.cc
+         ismpf.cc
+     1>..\..\cxx\ismpf.cc(133): warning C4102: 'fail' : unreferenced label
+         ismpq.cc
+         ismpz.cc
+         osdoprnti.cc
+         osfuns.cc
+     1>..\..\cxx\osfuns.cc(88): warning C4244: '=' : conversion from 'std::streamsize' to 'int', possible loss of data
+     1>..\..\cxx\osfuns.cc(111): warning C4244: '=' : conversion from 'std::streamsize' to 'int', possible loss of data
+         osmpf.cc
+         osmpq.cc
+         osmpz.cc
+         Generating Code...
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\ /Zi /nologo /W3 /WX- /Ox /Oy- /D NDEBUG /D _LIB /D HAVE_CONFIG_H /D _MBCS /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Release\cxx\\" /Fd"C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\cxx\ismpznw.cc
+         ismpznw.cc
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.lib" /NOLOGO Win32\Release\cxx\isfuns.obj
+         Win32\Release\cxx\ismpf.obj
+         Win32\Release\cxx\ismpq.obj
+         Win32\Release\cxx\ismpz.obj
+         Win32\Release\cxx\ismpznw.obj
+         Win32\Release\cxx\osdoprnti.obj
+         Win32\Release\cxx\osfuns.obj
+         Win32\Release\cxx\osmpf.obj
+         Win32\Release\cxx\osmpq.obj
+         Win32\Release\cxx\osmpz.obj
+         lib_mpir_cxx.vcxproj -> C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.lib
+       PostBuildEvent:
+         if not exist ..\lib\Win32\Release\ md ..\lib\Win32\Release\
+         
+         copy "C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.lib" ..\lib\Win32\Release\\
+         copy "C:\Libraries\mpir-2.4.0\build.vc10\Win32\Release\mpirxx.pdb" ..\lib\Win32\Release\\
+         
+         :VCEnd
+                 1 Datei(en) kopiert.
+                 1 Datei(en) kopiert.
+       FinalizeBuildStatus:
+         Deleting file "Win32\Release\lib_mpir_cxx.unsuccessfulbuild".
+         Touching "Win32\Release\lib_mpir_cxx.lastbuildstate".
+     1>Done Building Project "C:\Libraries\mpir-2.4.0\build.vc10\lib_mpir_cxx\lib_mpir_cxx.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.11

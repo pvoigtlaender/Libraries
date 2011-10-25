@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML
+END
+Network.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Network.hpp
+END
+Graphics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Graphics.hpp
+END
+Audio.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Audio.hpp
+END
+OpenGL.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/OpenGL.hpp
+END
+System.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/System.hpp
+END
+Config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Config.hpp
+END
+Window.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pv182253_Libraries/!svn/ver/1/SFML%202.0/include/SFML/Window.hpp
+END

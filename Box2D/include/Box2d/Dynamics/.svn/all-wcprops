@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics
+END
+b2Island.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Island.cpp
+END
+b2ContactManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2ContactManager.h
+END
+b2Fixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Fixture.h
+END
+b2World.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2World.h
+END
+b2WorldCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2WorldCallbacks.h
+END
+b2Body.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Body.cpp
+END
+b2Island.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Island.h
+END
+b2TimeStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2TimeStep.h
+END
+b2Body.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Body.h
+END
+b2ContactManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2ContactManager.cpp
+END
+b2Fixture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2Fixture.cpp
+END
+b2World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2World.cpp
+END
+b2WorldCallbacks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/pv182253_Libraries/!svn/ver/1/Box2D/include/Box2d/Dynamics/b2WorldCallbacks.cpp
+END

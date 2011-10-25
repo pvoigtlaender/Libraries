@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network
+END
+Ftp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Ftp.hpp
+END
+Selector.inl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Selector.inl
+END
+SelectorBase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/SelectorBase.hpp
+END
+Sockets.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Sockets.hpp
+END
+IPAddress.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/IPAddress.hpp
+END
+Http.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Http.hpp
+END
+SocketTCP.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/SocketTCP.hpp
+END
+Selector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Selector.hpp
+END
+SocketUDP.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/SocketUDP.hpp
+END
+Packet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/Packet.hpp
+END
+SocketHelper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/pv182253_Libraries/!svn/ver/1/SFML%201.6/include/SFML/Network/SocketHelper.hpp
+END
